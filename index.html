@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web AWS EC2 Instancia 1 - LB</title>
+</head>
+
+<body>
+    <h1>Hola a la Web AWS EC2 Instancia 1 - LB! Prueba en vivo!</h1>
+    <p id="contenido-obtenido-desde-nginx">Cargando...</p>
+
+    <script>
+        const host = "aca-meeting47.ml";
+
+        // Ejecucion de GET request a la API
+        fetch(`https://${host}/api`)
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('contenido-obtenido-desde-nginx').innerHTML = data;
+            });
+    </script>
+
+</body>
+
+</html>
