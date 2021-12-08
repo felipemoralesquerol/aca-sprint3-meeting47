@@ -10,8 +10,10 @@
 5) Chequear la propagación de tu dominio registrado en https://dnschecker.org/
 6) Probar desde tu navegador el acceso a tu dominio (el cual esta relacionado con el balanceador de cargas seleccionado en el punto 3).
 7) Crear un certificado en AWS vía el servicio Certificate Manager.
-8) Revear toda la infraestuctura para soporte el protocolo https!!!
-9) A disfrutar de tus webs seguras!!
+8) Desde Certificate Manager copiar los CNAMEs generados y guardarlos en S3
+9) Desde Route 53, desde el dominio creado, importar dichos CNAMEs (en nueva versión de Route 53 este proceso puede ser automática)
+10) Revear toda la infraestuctura para soporte el protocolo https!!!
+11) A disfrutar de tus webs seguras!!
 
 
 ## Links de interes
