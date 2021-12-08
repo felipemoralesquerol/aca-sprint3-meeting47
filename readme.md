@@ -18,8 +18,9 @@
 
 ## Links de interes
 
-- ### ¿Problemas con Freenom? Registrar un dominio gratis en Freenom. Alternativa 1
+- ### ¿Problemas con Freenom? Registrar un dominio gratis en Freenom?
     https://www.youtube.com/watch?v=uFY6rI_M7Q0
+    https://www.youtube.com/watch?v=3Uopc4AFjOY
 
 - ### Registrar dominio gratis en Freenom y vincularlo con AWS 
     https://www.youtube.com/watch?v=LpHFSE3IEVE
