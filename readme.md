@@ -1,4 +1,4 @@
-# Uso de Route 53
+# Uso de Route 53 de AWS
 
 # Manos a la obra
 1) Chequear la disponibilidad de tu dominio a registrar (vía Freenom o dnschecher.org)
