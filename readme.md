@@ -1,4 +1,4 @@
-# Uso de Route 53 de AWS
+# Uso de Route 53 de AWS (tanto para instancias EC2s como para Load Balancers)
 
 # Manos a la obra
 ## Gestión del dominio
